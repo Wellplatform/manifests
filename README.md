@@ -1,2 +1,2 @@
-# gf-userspace-kernel
+# manifests
 The gf kernel manifests.
