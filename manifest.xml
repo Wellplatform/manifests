@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="origin" fetch="https://github.com/genericFactoryProject/" review="https://github.com/genericFactoryProject" />
-  <default revision="develop" remote="origin" sync-j="4" />
-  <project path="project/libkernmgr" name="libkernmgr" />
-  <project path="project/libdrvmgr" name="libdrvmgr" />
-  <project path="project/libbase" name="libbase" />
-  <project path="project/build" name="build" />
-</manifest>
