@@ -5,4 +5,5 @@
   <project path="project/kernel" name="kernel" />
   <project path="project/lib" name="lib" />
   <project path="project/build" name="build" />
+  <project path="manifests" name="manifests" />
 </manifest>
