@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.com/genericFactoryProject/" review="https://github.com/genericFactoryProject" />
+  <remote name="origin" fetch="https://github.com/Wellplatform/" review="https://github.com/Wellplatform" />
   <default revision="develop" remote="origin" sync-j="4" />
   <project path="project/kernel" name="kernel" />
   <project path="project/lib" name="lib" />
+  <project path="project/xfe" name="xfe" />
   <project path="project/build" name="build" />
   <project path="manifests" name="manifests" />
 </manifest>
