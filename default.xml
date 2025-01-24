@@ -4,7 +4,6 @@
   <default revision="develop" remote="origin" sync-j="4" />
   <project path="project/kernel" name="kernel" />
   <project path="project/lib" name="lib" />
-  <project path="project/xfe" name="xfe" />
   <project path="project/build" name="build" />
   <project path="project/bsp" name="bsp" />
   <project path="manifests" name="manifests" />
