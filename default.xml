@@ -2,7 +2,7 @@
 <manifest>
   <remote name="origin" fetch="https://github.com/Wellplatform/" review="https://github.com/Wellplatform" />
   <default revision="develop" remote="origin" sync-j="4" />
-  <project path="project/kernel" name="kernel" />
+  <project path="project/lynix" name="lynix" />
   <project path="project/lib" name="lib" />
   <project path="project/build" name="build" />
   <project path="project/bsp" name="bsp" />
